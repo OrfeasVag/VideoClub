@@ -1,0 +1,102 @@
+{
+Type DVD
+Title Avengers: Age Of Ultron
+Year 2015
+Categories Action Adventure
+Company Marvel
+Director Joss Whedon
+Scriptwriter Stan Lee
+Actors Robert Downey Jr. Chris Hemsworth
+Duration 140.0
+Isavailable true
+Rented to 
+Renters number 0
+Renting date 
+Renting days 0
+Renting cost 0
+Renting fine 0
+}
+{
+Type DVD
+Title Avengers: Age Of Ultron
+Year 2015
+Categories Action Adventure
+Company Marvel
+Director Joss Whedon
+Scriptwriter Stan Lee
+Actors Robert Downey Jr. Chris Hemsworth
+Duration 140.0
+Isavailable false
+Rented to Orfeas Vagelakis
+Renters number 6945410799
+Renting date 12/2/15
+Renting days 1
+Renting cost 1
+Renting fine 1
+}
+{
+Type BLUERAY
+Title Mad Max: Fury Road
+Year 2015
+Categories Action Adventure Action Adventure
+Company whoknows
+Director George Miller
+Scriptwriter Brendan McCarthy
+Actors Robert Downey Jr. Chris Hemsworth Tom Hardy Charlize Theron
+Duration 140.0
+Isavailable true
+Rented to 
+Renters number 0
+Renting date 
+Renting days 0
+Renting cost 0
+Renting fine 0
+}
+{
+Type BLUERAY
+Title Mad Max: Fury Road
+Year 2015
+Categories Action Adventure Action Adventure
+Company whoknows
+Director George Miller
+Scriptwriter Brendan McCarthy
+Actors Robert Downey Jr. Chris Hemsworth Tom Hardy Charlize Theron
+Duration 140.0
+Isavailable false
+Rented to Iro Anagnostaki
+Renters number 6695430699
+Renting date 14/4/15
+Renting days 1
+Renting cost 1
+Renting fine 1
+}
+{
+Type GAME
+Title Lineage 2
+Year 2003
+Platform NcSoft
+Categories PC
+Company Action Adventure Action Adventure MMORPG
+Isavailable true
+Rented to 
+Renters number 0
+Renting date 
+Renting days 0
+Renting cost 0
+Renting fine 0
+}
+{
+Type GAME
+Title Lineage 2
+Year 2003
+Platform NcSoft
+Categories PC
+Company Action Adventure Action Adventure MMORPG
+Isavailable false
+Rented to Rafaella Gazepidou
+Renters number 69743089100
+Renting date 10/2/15
+Renting days 7
+Renting cost 7
+Renting fine 1
+}
